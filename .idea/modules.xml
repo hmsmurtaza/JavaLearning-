@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Callback1/Callback1.iml" filepath="$PROJECT_DIR$/Callback1/Callback1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Callback2/Callback2.iml" filepath="$PROJECT_DIR$/Callback2/Callback2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearning.iml" filepath="$PROJECT_DIR$/JavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintlnAnatomy/PrintlnAnatomy.iml" filepath="$PROJECT_DIR$/PrintlnAnatomy/PrintlnAnatomy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda2/lambda2.iml" filepath="$PROJECT_DIR$/lambda2/lambda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda3/lambda3.iml" filepath="$PROJECT_DIR$/lambda3/lambda3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid-principles/solid-principles.iml" filepath="$PROJECT_DIR$/solid-principles/solid-principles.iml" />
+    </modules>
+  </component>
+</project>
